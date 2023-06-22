@@ -9,5 +9,4 @@ Initialisation  |
   ~ git config --global color.ui auto <!-- Facultatif: configurer la couleur de l'interface -->
   
 PS : Pour vérifier si les champs ont bien  été remplis: il renvoie une nouvelle ligne de commande
-sans erreurs. Vous avie la possibilé de renvoyer uniquement la commande git config [...] et il 
-renvoie la  réponse.
+sans erreurs. Vous avie la possibilé de renvoyer uniquement la commande **git config** [...] et il renvoie la  réponse.
