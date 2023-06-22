@@ -13,11 +13,11 @@ sans erreurs. Vous avie la possibilé de renvoyer uniquement la commande **git c
 
 Voici quelques commandes Git courantes pour vous aider à démarrer :
 
-~ git init : Initialise un nouveau dépôt Git dans le répertoire courant.
-~ git clone <URL> : Clone un dépôt distant existant sur votre machine.
-~ git add <nom du fichier> : Ajoute un fichier spécifique à l'index pour préparer un commit.
-~ git commit -m "Message du commit" : Crée un nouveau commit avec les modifications en cours, en y associant un message descriptif.
-~ git push <remote> <branche> : Pousse les commits locaux vers un dépôt distant.
-~ git pull <remote> <branche> : Récupère les modifications depuis un dépôt distant et les fusionne avec votre branche locale.
-~ git status : Affiche l'état actuel du dépôt, montrant les fichiers modifiés, ajoutés ou supprimés.
+~ git init : Initialise un nouveau dépôt Git dans le répertoire courant.<br>
+~ git clone <URL> : Clone un dépôt distant existant sur votre machine.<br>
+~ git add <nom du fichier> : Ajoute un fichier spécifique à l'index pour préparer un commit.<br>
+~ git commit -m "Message du commit" : Crée un nouveau commit avec les modifications en cours, en y associant un message descriptif.<br>
+~ git push <remote> <branche> : Pousse les commits locaux vers un dépôt distant.<br>
+~ git pull <remote> <branche> : Récupère les modifications depuis un dépôt distant et les fusionne avec votre branche locale.<br>
+~ git status : Affiche l'état actuel du dépôt, montrant les fichiers modifiés, ajoutés ou supprimés.<br>
 ~ git log : Affiche l'historique des commits du dépôt.
