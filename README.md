@@ -2,7 +2,7 @@
 Petit test d'insertion de fichier un partir de VsCode ;)
 
 Quelques petits tips pour utiliser Git (sur VScode Terminal):
-Initialisation  |
+Initialisation  |<br>
   ~ git config  --global user.name "Votre nom"<br>  <!-- Nom d'utilisateur git ou nom réel -->
   ~ git config --global user.email "votre-email@example.com"<br> <!-- adresse mail associé à GitHub-->
   ~ git config --global core.editor "nom-de-votre-editeur"<br> <!-- "code" pour Vscode par exemple -->
